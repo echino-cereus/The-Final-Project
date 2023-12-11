@@ -1,2 +1,3 @@
 # The-Final-Project
-python final
+# python final
+# renamed actual game to "The Serial Killer of Silverymoon"
